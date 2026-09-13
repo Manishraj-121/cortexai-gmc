@@ -1,0 +1,489 @@
+{
+  "insurer": {
+    "name": "TATA AIG General Insurance Company Limited",
+    "evidence": {
+      "page": 1,
+      "text": "Insurer: TATA AIG General Insurance Company Limited TPA: Medi Assist Insurance TPA Private Limited",
+      "confidence": 0.99
+    }
+  },
+  "tpa": {
+    "name": "Medi Assist Insurance TPA Private Limited",
+    "evidence": {
+      "page": 1,
+      "text": "Insurer: TATA AIG General Insurance Company Limited TPA: Medi Assist Insurance TPA Private Limited",
+      "confidence": 0.99
+    }
+  },
+  "previous_policy": {
+    "inception_date": {
+      "status": "covered",
+      "value": "26 April 2024",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Previous Policy Period: 26 April 2024 – 25 April 2025",
+        "confidence": 1
+      }
+    },
+    "renewal_date": {
+      "status": "covered",
+      "value": "25 April 2025",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Previous Policy Period: 26 April 2024 – 25 April 2025",
+        "confidence": 1
+      }
+    },
+    "policy_period": {
+      "status": "covered",
+      "value": "26 April 2024 – 25 April 2025",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Previous Policy Period: 26 April 2024 – 25 April 2025",
+        "confidence": 1
+      }
+    },
+    "tenure": {
+      "status": "covered",
+      "value": "1 year",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Previous Policy Period: 26 April 2024 – 25 April 2025",
+        "confidence": 1
+      }
+    },
+    "inception_premium": {
+      "status": "covered",
+      "value": "n 18,50,000",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Previous Year Inception Premium: n 18,50,000",
+        "confidence": 1
+      }
+    }
+  },
+  "policy_structure": {
+    "family_structure": {
+      "employee": {
+        "status": "covered",
+        "value": "Employee",
+        "conditions": [],
+        "evidence": {
+          "page": 1,
+          "text": "Family structure includes Employee, Spouse, Children, Parents and Parents-in-law.",
+          "confidence": 1
+        }
+      },
+      "spouse": {
+        "status": "covered",
+        "value": "Spouse",
+        "conditions": [],
+        "evidence": {
+          "page": 1,
+          "text": "Family structure includes Employee, Spouse, Children, Parents and Parents-in-law.",
+          "confidence": 1
+        }
+      },
+      "children": {
+        "status": "covered",
+        "value": "Children",
+        "conditions": [],
+        "evidence": {
+          "page": 1,
+          "text": "Family structure includes Employee, Spouse, Children, Parents and Parents-in-law.",
+          "confidence": 1
+        }
+      },
+      "parents": {
+        "status": "covered",
+        "value": "Parents",
+        "conditions": [],
+        "evidence": {
+          "page": 1,
+          "text": "Family structure includes Employee, Spouse, Children, Parents and Parents-in-law.",
+          "confidence": 1
+        }
+      },
+      "parents_in_law": {
+        "status": "covered",
+        "value": "Parents-in-law",
+        "conditions": [],
+        "evidence": {
+          "page": 1,
+          "text": "Family structure includes Employee, Spouse, Children, Parents and Parents-in-law.",
+          "confidence": 1
+        }
+      }
+    },
+    "sum_insured_tiers": [
+      "5,00,000",
+      "7,00,000",
+      "10,00,000"
+    ],
+    "evidence": {
+      "page": 1,
+      "text": "Sum Insured tiers: n 5,00,000; n 7,00,000; n 10,00,000.",
+      "confidence": 1
+    }
+  },
+  "demographics": {
+    "employees": 420,
+    "spouses": 310,
+    "children": 275,
+    "parents": null,
+    "parents_in_law": null,
+    "total_lives": 1185,
+    "evidence": {
+      "page": 1,
+      "text": "Employees 420, Spouses 310, Children 275, Parents / Parents-in-law 180, Total Lives Covered 1185",
+      "confidence": 1
+    }
+  },
+  "benefits": {
+    "room_rent": {
+      "status": "covered",
+      "value": "1% of Sum Insured per day, maximum n 7,500 per day",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Room Rent: 1% of Sum Insured per day, maximum n 7,500 per day",
+        "confidence": 1
+      }
+    },
+    "icu_charges": {
+      "status": "covered",
+      "value": "2% of Sum Insured per day, maximum n 15,000 per day",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "ICU Charges: 2% of Sum Insured per day, maximum n 15,000 per day",
+        "confidence": 1
+      }
+    },
+    "pre_hospitalization": {
+      "status": "covered",
+      "value": "30 days",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Pre-Hospitalization: 30 days",
+        "confidence": 1
+      }
+    },
+    "post_hospitalization": {
+      "status": "covered",
+      "value": "60 days",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Post-Hospitalization: 60 days",
+        "confidence": 1
+      }
+    },
+    "day_care": {
+      "status": "covered",
+      "value": "Covered",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Day Care Expenses: Covered",
+        "confidence": 1
+      }
+    },
+    "maternity_waiting_9_months": {
+      "status": "waived_off",
+      "value": "Waived Off",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "9-month maternity waiting period: Waived Off",
+        "confidence": 1
+      }
+    },
+    "baby_day_one": {
+      "status": "covered",
+      "value": "Covered",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Baby Day One Cover: Covered",
+        "confidence": 1
+      }
+    },
+    "vaccination": {
+      "status": "covered",
+      "value": "Covered up to n 10,000 per child.",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Vaccination Coverage: Covered up to n 10,000 per child",
+        "confidence": 1
+      }
+    },
+    "normal_delivery_metro": {
+      "status": "covered",
+      "value": "n 50,000",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Normal Delivery: Metro n 50,000",
+        "confidence": 1
+      }
+    },
+    "normal_delivery_non_metro": {
+      "status": "covered",
+      "value": "n 40,000",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Normal Delivery: Non-Metro n 40,000",
+        "confidence": 1
+      }
+    },
+    "c_section_metro": {
+      "status": "covered",
+      "value": "n 75,000",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "C-Section: Metro n 75,000",
+        "confidence": 1
+      }
+    },
+    "c_section_non_metro": {
+      "status": "covered",
+      "value": "n 60,000",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "C-Section: Non-Metro n 60,000",
+        "confidence": 1
+      }
+    },
+    "waiting_30_days": {
+      "status": "waived_off",
+      "value": "Waived Off",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "30-Day Initial Waiting Period: Waived Off.",
+        "confidence": 1
+      }
+    },
+    "waiting_first_second_year": {
+      "status": "waived_off",
+      "value": "Waived Off",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "1st / 2nd Year Waiting Period: Waived Off.",
+        "confidence": 1
+      }
+    },
+    "ped_waiting_period": {
+      "status": "waived_off",
+      "value": "Waived Off",
+      "conditions": [],
+      "evidence": {
+        "page": 1,
+        "text": "Pre-Existing Disease (PED) Waiting Period: Waived Off.",
+        "confidence": 1
+      }
+    },
+    "opd": {
+      "status": "covered",
+      "value": "up to n 15,000 per family per year",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "OPD Benefit: Covered up to n 15,000 per family per year",
+        "confidence": 1
+      }
+    },
+    "teleconsultation": {
+      "status": "covered",
+      "value": "Covered",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Teleconsultation: Covered",
+        "confidence": 1
+      }
+    },
+    "pharmacy_discount": {
+      "status": "covered",
+      "value": "10% discount at network pharmacies",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Pharmacy Discount: 10% discount at network pharmacies",
+        "confidence": 1
+      }
+    },
+    "domiciliary_hospitalization": {
+      "status": "covered",
+      "value": "up to Sum Insured",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Domiciliary Hospitalization: Covered up to Sum Insured",
+        "confidence": 1
+      }
+    },
+    "annual_health_checkup": {
+      "status": "covered",
+      "value": "up to n 2,000 per employee",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Annual Health Check-Up: Covered up to n 2,000 per employee",
+        "confidence": 1
+      }
+    },
+    "modern_treatment": {
+      "status": "covered",
+      "value": "subject to policy terms",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Modern Treatment: Covered subject to policy terms",
+        "confidence": 1
+      }
+    },
+    "bariatric_treatment": {
+      "status": "covered",
+      "value": "up to n 1,00,000",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Bariatric Treatment: Covered up to n 1,00,000",
+        "confidence": 1
+      }
+    },
+    "psychiatric_treatment": {
+      "status": "covered",
+      "value": "up to n 50,000",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Psychiatric Treatment: Covered up to n 50,000",
+        "confidence": 1
+      }
+    },
+    "ayush_treatment": {
+      "status": "covered",
+      "value": "up to Sum Insured",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "AYUSH Treatment: Covered up to Sum Insured",
+        "confidence": 1
+      }
+    },
+    "lgbtq_coverage": {
+      "status": "covered",
+      "value": "Covered",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "LGBTQ+ Coverage: Covered",
+        "confidence": 1
+      }
+    },
+    "live_in_partner": {
+      "status": "covered",
+      "value": "Covered",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Live-in Partner Coverage: Covered",
+        "confidence": 1
+      }
+    },
+    "organ_donor": {
+      "status": "covered",
+      "value": "up to Sum Insured",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Organ Donor Expenses: Covered up to Sum Insured",
+        "confidence": 1
+      }
+    },
+    "infertility_treatment": {
+      "status": "covered",
+      "value": "Covered up to n 50,000 per policy year",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Infertility Treatment: Covered up to n 50,000 per policy year",
+        "confidence": 1
+      }
+    },
+    "surrogacy": {
+      "status": "not_covered",
+      "value": null,
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Surrogacy: Not Covered",
+        "confidence": 1
+      }
+    },
+    "ambulance": {
+      "status": "covered",
+      "value": "Covered up to n 5,000 per hospitalization",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Ambulance Charges: Covered up to n 5,000 per hospitalization",
+        "confidence": 1
+      }
+    },
+    "air_ambulance": {
+      "status": "covered",
+      "value": "Covered up to n 2,00,000 per policy year",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Air Ambulance Charges: Covered up to n 2,00,000 per policy year",
+        "confidence": 1
+      }
+    },
+    "corporate_buffer": {
+      "status": "covered",
+      "value": "n 25,00,000",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Corporate Buffer Limit: n 25,00,000",
+        "confidence": 1
+      }
+    },
+    "disease_wise_capping": {
+      "status": "covered",
+      "value": "Applicable to selected treatments as per policy schedule",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Disease-wise Capping: Applicable to selected treatments as per policy schedule",
+        "confidence": 1
+      }
+    },
+    "waiver_conditions": {
+      "status": "covered",
+      "value": "Waiting periods are waived for enrolled employees and eligible dependents, subject to policy terms",
+      "conditions": [],
+      "evidence": {
+        "page": 2,
+        "text": "Applicable Waiver Conditions: Waiting periods are waived for enrolled employees and eligible dependents, subject to policy terms",
+        "confidence": 1
+      }
+    }
+  }
+}

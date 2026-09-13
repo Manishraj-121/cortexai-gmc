@@ -1,0 +1,14 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; background: #f7f8fa; color: #111; }
+.container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+h1 { margin: 0 0 4px; }
+.subtitle { color: #555; margin-bottom: 16px; }
+.upload { display: flex; gap: 8px; margin-bottom: 16px; }
+.upload button { padding: 8px 16px; cursor: pointer; }
+.upload button:disabled { opacity: 0.6; cursor: not-allowed; }
+.error { background: #fee; color: #900; padding: 10px 12px; border-radius: 6px; margin-bottom: 16px; }
+.warn { background: #fff8e1; padding: 10px 12px; border-radius: 6px; margin: 12px 0; }
+.result h2 { margin-top: 24px; border-bottom: 1px solid #ddd; padding-bottom: 4px; }
+table.fields { width: 100%; border-collapse: collapse; font-size: 13px; }
+table.fields th, table.fields td { border: 1px solid #ddd; padding: 6px 8px; text-align: left; }
+table.fields th { background: #f0f2f5; }
