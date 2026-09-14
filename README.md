@@ -287,9 +287,3 @@ samples/
 docs/
   screenshots/       UI screenshots
 ```
-
----
-
-## License
-
-Personal project, built for an internship assignment. Not licensed for production use.
