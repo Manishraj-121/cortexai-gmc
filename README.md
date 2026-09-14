@@ -156,7 +156,7 @@ It writes a `.json` next to the input PDF.
 
 **Upload page**
 
-![Upload](docs/screenshots/01-upload.png)
+![Upload](C:\Users\MANISH\OneDrive\Pictures\Screenshots\Screenshot 2026-09-13 112046.png)
 
 **Extraction — insurer, TPA, previous policy**
 
